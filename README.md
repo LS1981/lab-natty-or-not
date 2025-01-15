@@ -23,20 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma apresentação sobre o tema.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gamma.app
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Revisando as aulas, bucquei uma ferramenta para utilizar no desafio. Ao acessar a ferramenta gamma.app, primeira coisa foi fazer o cadastro. Em seguida, foi buscar como criar uma apresentação com o tema proposto.
+Fazendo um rápido tour na plataforma, não foi difícil criar a apresentação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma apresentação com imagens e informações bem detalhadas sobre o assunto.
+https://gamma.app/docs/Desvendando-o-Misterio-Natty-vs-Fake-Natty-mkgqflsqm4fadp9
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+
 
 ### Exemplos e Insigths
 
