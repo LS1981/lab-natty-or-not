@@ -29,7 +29,7 @@ Criação de uma apresentação sobre o tema.
 Gamma.app
 
 ## 🧐 Processo de Criação
-Revisando as aulas, bucquei uma ferramenta para utilizar no desafio. Ao acessar a ferramenta gamma.app, primeira coisa foi fazer o cadastro. Em seguida, foi buscar como criar uma apresentação com o tema proposto.
+Revisando as aulas, busquei uma ferramenta para utilizar no desafio. Ao acessar a ferramenta gamma.app, primeira coisa foi fazer o cadastro. Em seguida, foi buscar como criar uma apresentação com o tema proposto.
 Fazendo um rápido tour na plataforma, não foi difícil criar a apresentação.
 
 ## 🚀 Resultados
